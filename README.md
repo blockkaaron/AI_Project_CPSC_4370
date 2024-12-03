@@ -1,21 +1,36 @@
-# AI_Project_CPSC_4370
+AI_Project_CPSC_4370
 For AI Project CPSC 4370 tracking and documentation
 
-
-Aaron Block
-Stephanie Scherb
+Collaborators:
 Linu Robin
+Stephanie Scherb
+Aaron Block
 
 CPSC 4370 Fraud Analysis AI Project
 
-The Goal
-To determine possible fraudent activities from financial PCA datasets 
+This project is for determining fraudulent transaction activity 
+by using Naive Bayes and Random Forest classifier models for 
+CPSC_4370_AI's end of the semester project
 
-The Challenge
-Using Python and machine learning, generate program that determines probabilities of fraudulent transactions automatically using Naive Bayes and Random Forest Classifier models
+The referenced datasets being used for training and testing each model are Train.csv and Test.csv
+These datasets may be found at https://www.kaggle.com/datasets/kartik2112/fraud-detection
+All resources were discovered through research.
+While the datasets are open source, all code has been written and committed by the students/collaborators 
+for this project. For more information, refer to https://github.com/blockkaaron/AI_Project_CPSC_4370
 
-Running the project within any Python supported IDE:
-Step one is to run "testcsvconnection.py" to ensure your environment is setup correctly and ready to execute.
+The Goal To detect the presence of fraudent activities from a dataset
 
-Step two is run main.py which will show four pop ups one at a time. The first two are the datasets being prepared for use, 
-and the last two pop ups are the confusion matrix visualization outputs for each model after being trained on the same datasets
+The Challenge Using Python and machine learning, develop a program that determines probabilities of fraudulent 
+activities automatically using a predetermined dataset
+
+To run, ensure train.csv and test.csv are in project as they are the datasets being used
+Please give the program enough time to complete each step of both models (approximately 1 minute)
+
+There will be 4 pop-up results in this order: 
+
+Pre-Data Prep
+Post-Data Prep
+Naive Bayes Confusion Matrix 
+Random Forest Confusion Matrix
+
+The console will also print results based on progress of each model.

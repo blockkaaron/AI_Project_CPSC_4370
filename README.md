@@ -13,7 +13,7 @@ by using Naive Bayes and Random Forest classifier models for
 CPSC_4370_AI's end of the semester project
 
 The referenced datasets being used for training and testing each model are Train.csv and Test.csv
-These datasets may be found at https://www.kaggle.com/datasets/kartik2112/fraud-detection
+These datasets may be found at https://drive.google.com/drive/folders/15LKTwsx-dR11FqhoynnpnAGcFT2zjH3o?usp=drive_link or their source https://www.kaggle.com/datasets/kartik2112/fraud-detection
 All resources were discovered through research.
 While the datasets are open source, all code has been written and committed by the students/collaborators 
 for this project. For more information, refer to https://github.com/blockkaaron/AI_Project_CPSC_4370

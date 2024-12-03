@@ -1,0 +1,10 @@
+
+/.venv/Scripts
+/.venv/Lib/site-packages
+/.venv/Lib
+/.venv/Lib
+/.venv/Lib
+/.venv
+/.venv/Lib
+*.csv
+AI_Datasets.zip

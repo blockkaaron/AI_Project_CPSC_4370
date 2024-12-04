@@ -18,9 +18,9 @@ All resources were discovered through research.
 While the datasets are open source, all code has been written and committed by the students/collaborators 
 for this project. For more information, refer to https://github.com/blockkaaron/AI_Project_CPSC_4370
 
-The Goal To detect the presence of fraudent activities from a dataset
+The Goal: to detect the presence of fraudent activities from a dataset
 
-The Challenge Using Python and machine learning, develop a program that determines probabilities of fraudulent 
+The Challenge using Python and machine learning, develop a program that determines probabilities of fraudulent 
 activities automatically using a predetermined dataset
 
 To run, ensure train.csv and test.csv are in project as they are the datasets being used
@@ -34,3 +34,5 @@ Naive Bayes Confusion Matrix
 Random Forest Confusion Matrix
 
 The console will also print results based on progress of each model.
+
+This was ran successfully in Python 3.12

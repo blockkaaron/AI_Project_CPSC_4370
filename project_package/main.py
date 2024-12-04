@@ -1,5 +1,5 @@
 import threading
-from AI_Project_CPSC_4370.project_package import testcsvconnection, naivebayesclassifier, randomforestclassifier
+from project_package import testcsvconnection, naivebayesclassifier, randomforestclassifier
 
 '''
 Collaborators:
